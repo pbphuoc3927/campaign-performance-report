@@ -1,8 +1,3 @@
-Dưới đây là một file `README.md` mẫu, chuẩn chỉnh và chuyên nghiệp cho **Project 2: Campaign Performance Report (Meta, TikTok)** – phù hợp với GitHub và portfolio:
-
----
-
-```markdown
 # 📊 Campaign Performance Report (Meta & TikTok)
 
 This project simulates and analyzes campaign performance data across Meta and TikTok platforms. The goal is to practice data analysis workflows from data generation to insight extraction, with a focus on digital marketing metrics.
@@ -14,17 +9,13 @@ This project simulates and analyzes campaign performance data across Meta and Ti
 ```
 
 campaign-performance-report/
-│
 ├── data/
 │   ├── meta\_campaign\_data.csv
 │   ├── tiktok\_campaign\_data.csv
-│
 ├── notebooks/
 │   └── generate\_mock\_data.py
-│
 ├── scripts/
 │   └── campaign\_analysis.ipynb
-│
 ├── .gitignore
 ├── README.md
 └── requirements.txt
